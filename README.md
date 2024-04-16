@@ -34,6 +34,6 @@ This repository contains all the necessary documentation and files for the plann
 ## Client Details
 - **Name**: Pamela Marquez
 - **Industry**: Beverages
-- **Mission and Vision**: "Our mission is to provide health-conscious individuals with a premium range of hibiscus teas, expertly brewed to honor our deep Mexican heritage while promoting a healthy lifestyle through natural, flavorful beverage options."
+- **Mission and Vision**: The goal of PGJ is to use creative product development and sustainable brewing techniques to highlight the tastes, traditions, and history of Mexico. PGJ turns leftover flower waste into priceless goods like vinaigrettes, syrups, and sauces by upholding the traditional philosophy that "nothing is wasted" and maximizing value creation from each batch of brewed tea.
 
 For additional instructions on how to utilize this repository effectively, refer to the Wiki section or contact the project manager, Benjamin Lopes.
